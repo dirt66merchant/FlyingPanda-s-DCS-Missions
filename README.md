@@ -17,9 +17,7 @@ The mission "FreeRange2" is the go-forward mission for TFP, please understand th
 
 Contact either Cal, or Dirt_Merchant if you need some advice or have any questions. 
 
-##Section II: Project objectives and requirements
-
-I. FreeRange2
+##Section II: FreeRange2
 	1. All aircraft will ramp start from Sochi, Gudata, and the aircraft carriers in the Black Sea.
 	2. The primary battle will be located at Sukhumi.
 	3. BULLS will be located at Sukhumi.
